@@ -1,0 +1,11 @@
+{
+    "watch": [
+        "dist"
+    ],
+    "ext": "js,css,html",
+    "ignore": [
+        "dist/node_modules"
+    ],
+    "delay": "500",
+    "verbose": true
+}
